@@ -1,4 +1,4 @@
-# ChessQuest
+# Chessora
 
 ChessQuest is an educational chess system designed for young developing players in Years 4–8. It combines chess gameplay with varied difficulty levels and a reward system to encourage concentration, problem-solving, strategic thinking, and learning from mistakes.
 
@@ -6,7 +6,7 @@ Players can challenge chess bots with different levels of difficulty while earni
 
 ## Development Status
 
-**In Development** — ChessQuest is actively being developed. Features, AI difficulty, gameplay systems, and the user interface are still being improved and tested.
+**In Development** — Chessora is actively being developed. Features, AI difficulty, gameplay systems, and the user interface are still being improved and tested.
 
 ## Features
 
@@ -33,8 +33,8 @@ Players can challenge chess bots with different levels of difficulty while earni
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ChessQuest.git
-cd ChessQuest
+git clone https://github.com/your-username/Chessora.git
+cd Chessora
 ```
 
 3. Install the required dependencies:
