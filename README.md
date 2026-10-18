@@ -1,12 +1,13 @@
+## THIS IS ONLY A PROTOTYPE FOR MY CHESSQUEST (not intended to be used and will not be maintained)
+
 # Chessora
 
-ChessQuest is an educational chess system designed for young developing players in Years 4–8. It combines chess gameplay with varied difficulty levels and a reward system to encourage concentration, problem-solving, strategic thinking, and learning from mistakes.
+# https://1drv.ms/x/c/8988b50f1c96fa71/IQCkoBjdVC2ZQqlO7vek9F81AVlIWLo-ldDwFIcEi9qSq0I?e=ywBFZJ
+# My Progress When Making This
+
+Chessora is an educational chess system designed for young developing players in Years 4–8. It combines chess gameplay with varied difficulty levels and a reward system to encourage concentration, problem-solving, strategic thinking, and learning from mistakes.
 
 Players can challenge chess bots with different levels of difficulty while earning rewards as they progress. The system is designed to provide a more engaging and motivating learning environment than a standard chess game.
-
-## Development Status
-
-**In Development** — Chessora is actively being developed. Features, AI difficulty, gameplay systems, and the user interface are still being improved and tested.
 
 ## Features
 
@@ -26,6 +27,7 @@ Players can challenge chess bots with different levels of difficulty while earni
 - Pygame
 - CustomTkinter
 - Python-Chess
+- And a few more
 
 ## Installation
 
