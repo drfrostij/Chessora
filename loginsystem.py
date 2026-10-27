@@ -24,7 +24,7 @@ from PIL import Image, ImageTk          # this is for loading images            
 #https://pillow.readthedocs.io/en/stable/                                                           #PIL documentation
 from tkinter import HORIZONTAL, Button, Scale, mainloop, messagebox    #pop ups                     # (needs pip installment)
 #https://docs.python.org/3/library/tkinter.messagebox.html                                          #Message box documentation    
-import tkinter                                                                                      #PIL documentation
+import tkinter                                                                                      # (needs pip installment)
 #https://docs.python.org/3/library/tkinter.html                                                     #Tkinter documentation
 
 ##############################
